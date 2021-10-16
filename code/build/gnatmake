@@ -1,0 +1,4 @@
+gcc -c ../main.adb
+gcc -c ../rasp_code.ads
+gnatbind main
+gnatlink main
