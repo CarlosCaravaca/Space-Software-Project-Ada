@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/home/pi/Documents/projects/Space-Environment-Project-Ada/code/src/main.gpr
+20211017193220
+[BOUND OBJECT FILES]
+/home/pi/Documents/projects/Space-Environment-Project-Ada/code/build/rasp_code.o
+/home/pi/Documents/projects/Space-Environment-Project-Ada/code/build/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/home/pi/Documents/projects/Space-Environment-Project-Ada/code/build/
+-L/home/pi/Documents/projects/Space-Environment-Project-Ada/code/build/
+-L/usr/lib/gcc/arm-linux-gnueabihf/8/adalib/
+-shared
+-shared-libgcc
+-lgnat-8
+[RUN PATH OPTION]
+/usr/lib/gcc/arm-linux-gnueabihf/8/adalib/
+/usr/lib

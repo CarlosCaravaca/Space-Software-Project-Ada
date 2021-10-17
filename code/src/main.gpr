@@ -1,0 +1,15 @@
+--  teacher.gpr tells where to find library source and how to build it.
+-- with "../test/ahven/gnat/ahven.gpr";
+
+project Main is
+   --  for Source_Dirs use ("."); (commented out because it's the default)
+
+   --  Keep built objects out of the way
+   for Object_Dir use "../build";
+
+   --  Build executables here rather than in Object_Dir
+   for Exec_Dir use ".";
+
+   --  What's the main program? (there can be more than one)
+   for Main use ("main.adb");
+end Main;

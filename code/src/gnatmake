@@ -1,0 +1,2 @@
+#!/usr/bin/sh
+gnatmake -p -P main.gpr
