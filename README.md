@@ -1,4 +1,4 @@
-# Space-Environment-Project-Ada
+# Space-Software-Project-Ada
 The objective is to build a prototype for reduced onboard software for a satellite. The system
 has two parts:
 * A main computing hardware system that controls the main tasks.
